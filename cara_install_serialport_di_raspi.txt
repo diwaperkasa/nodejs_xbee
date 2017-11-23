@@ -1,0 +1,1 @@
+sudo npm install serialport@4.0.7 --unsafe-perm --build-from-source
